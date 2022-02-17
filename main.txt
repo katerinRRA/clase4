@@ -1,2 +1,3 @@
 el main de mi apliocacion
 //practica con
+intrucciones agregadas directamente en el repositorio remoto
